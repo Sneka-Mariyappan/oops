@@ -2,6 +2,7 @@ package oops;
 
 public class Battery {
 	String model;
-	int capacity;
+	int capacity;//add
+
 
 }
